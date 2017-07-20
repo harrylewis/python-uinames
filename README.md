@@ -1,5 +1,7 @@
 # UINames API Python Wrapper
 
+![Travis CI Build Status](https://travis-ci.org/harrylewis/python-uinames.svg?branch=master)
+
 This is a light python wrapper for the [UINames API](https://uinames.com/) developed by [Thom](https://github.com/thm). It allows you to generate random identities (based on a few parameters) for use as mock user data.
 
 ### Installation
