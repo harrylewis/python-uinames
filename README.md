@@ -4,6 +4,8 @@
 
 This is a light python wrapper for the [UINames API](https://uinames.com/) developed by [Thom](https://github.com/thm). It allows you to generate random identities (based on a few parameters) for use as mock user data.
 
+This version has only been tested with the latest version of python 2.7.
+
 ### Installation
 
 This library can be installed with pip:
