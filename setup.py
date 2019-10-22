@@ -9,5 +9,5 @@ setup(
     author_email="harry.lewis@queensu.ca",
     url="https://github.com/harrylewis/python-uinames",
     keywords=["testing", "mock", "data", "users"],
-    install_requires=["requests==2.13.0", "responses==0.5.1", "nose==1.3.7"]
+    install_requires=["requests==2.20.0", "responses==0.5.1", "nose==1.3.7"]
 )
